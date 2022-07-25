@@ -1,0 +1,327 @@
+{
+    "label": {
+        "address_info": "thông tin địa chỉ",
+        "search": "nhập từ khóa ...",
+        "no_more": "không còn nữa",
+        "yes": "có",
+        "no": "không",
+        "stop": "dừng",
+        "save": "lưu",
+        "select": "--- chọn ---",
+        "ok": "ok",
+        "cancel": "hủy",
+        "confirm_delete": "bạn có chắc chắn muốn xóa?",
+        "alert": "cảnh báo",
+        "new_success": "tạo mới thành công",
+        "edit_success": "đã chỉnh sửa thành công",
+        "delete_success": "xóa thành công",
+        "month": {
+            "m_1": "t1",
+            "m_2": "t2",
+            "m_3": "t3",
+            "m_4": "t4",
+            "m_5": "t5",
+            "m_6": "t6",
+            "m_7": "t7",
+            "m_8": "t8",
+            "m_9": "t9",
+            "m_10": "t10",
+            "m_11": "t11",
+            "m_12": "t12"
+        }
+    },
+    "module": {
+        "equipment": "thiết bị",
+        "equipmentType": "loại thiết bị",
+        "project": "dự án",
+        "projectType": "loại dự án",
+        "product": "sản phẩm",
+        "productType": "loại sản phẩm",
+        "client": "khách hàng",
+        "employee": "nhân viên",
+        "invoice": "hóa đơn",
+        "gpsRoute": "lộ trình",
+        "transportOrder": "đơn hàng",
+        "vehicle": "phương tiện"
+    },
+    "tabBar": {
+        "employee": "nhân viên",
+        "client": "khách hàng",
+        "project": "dự án",
+        "product": "sản phẩm",
+        "equipment": "thiết bị",
+        "account": "tài khoản",
+        "transport": "đơn hàng",
+        "vehicle": "phương tiện",
+        "invoice": "hóa đơn",
+        "gps_route": "định tuyến",
+        "home": "trang chủ"
+    },
+    "customNavigation": {
+        "client_root": "khách hàng",
+        "client_list": "danh sách khách hàng",
+        "client_edit": "sửa khách hàng",
+        "client_new": "tạo mới khách hàng",
+        "product_root": "sảm phẩm",
+        "product_list": "danh sách sảm phẩm",
+        "product_edit": "sửa sảm phẩm",
+        "product_new": "tạo mới sảm phẩm",
+        "product_type_list": "danh sách loại sản phẩm",
+        "product_type_edit": "sửa loại sản phẩm",
+        "product_type_new": "tạo mới loại sản phẩm",
+        "project_root": "dự án",
+        "project_list": "danh sách dự án",
+        "project_edit": "sửa dự án",
+        "project_new": "tạo mới dự án",
+        "project_type_list": "danh sách loại dự án",
+        "project_type_edit": "sửa loại dự án",
+        "project_type_new": "tạo mới loại dự án",
+        "equipment_root": "thiết bị",
+        "equipment_list": "danh sách thiết bị",
+        "equipment_edit": "sửa thiết bị",
+        "equipment_new": "tạo mới thiết bị",
+        "equipment_type_list": "danh sách loại thiết bị",
+        "equipment_type_edit": "sửa loại thiết bị",
+        "equipment_type_new": "tạo mới loại thiết bị",
+        "employee_root": "nhân viên",
+        "employee_list": "danh sách nhân viên",
+        "employee_edit": "sửa nhân viên",
+        "employee_new": "tạo mới nhân viên",
+        "account_root": "tài khoản",
+        "account_edit": "sửa tài khoản",
+        "transport_root": "đơn hàng",
+        "transport_list": "danh sách đơn hàng",
+        "transport_edit": "sửa đơn hàng",
+        "transport_new": "tạo mới đơn hàng",
+        "vehicle_root": "phương tiện",
+        "vehicle_list": "danh sách phương tiện",
+        "vehicle_edit": "sửa phương tiện",
+        "vehicle_new": "tạo mới phương tiện",
+        "invoice_root": "hóa đơn",
+        "invoice_list": "danh sách hóa đơn",
+        "invoice_edit": "sửa hóa đơn",
+        "invoice_new": "tạo mới hóa đơn",
+        "gps_route_root": "định tuyến",
+        "gps_route_new": "tạo mới định tuyến",
+        "gps_route_list": "danh sách định tuyến",
+        "gps_route_view": "thông tin định tuyến",
+        "gps_route_tracking": "theo dõi",
+        "home_root": "trang chủ"
+    },
+    "modal_setting": {
+        "settings": "cài đặt",
+        "theme": "chủ đề",
+        "language": "ngôn ngữ"
+    },
+    "field": {
+        "name": "tên",
+        "code": "mã",
+        "description": "mô tả",
+        "address": "địa chỉ",
+        "address_country": "quốc gia",
+        "address_city": "thành phố",
+        "address_postalCode": "mã bưu chính",
+        "address_description": "địa chỉ chi tiết",
+        "address_province": "thành phố/tỉnh",
+        "address_district": "quận/huyện",
+        "address_ward": "phường/xã"
+    },
+    "client": {
+        "label": {
+            "title": "quản lý khách hàng",
+            "listClient": "danh sách khách hàng"
+        },
+        "field": {
+            "name": "tên",
+            "code": "mã",
+            "phoneNumber": "số điện thoại",
+            "prospective": "tiềm năng",
+            "manager": "quản lý",
+            "type": "loại",
+            "type_personal": "cá nhân",
+            "type_organization": "tổ chức"
+        }
+    },
+    "employee": {
+        "label": {
+            "title": "quản lý nhân viên",
+            "listEmployee": "danh sách nhân viên"
+        },
+        "field": {
+            "isUser": "tài khoản",
+            "username": "tên tài khoản",
+            "role": "quyền",
+            "superadmin": "quản lý gốc",
+            "admin": "quản lý",
+            "employee": "nhân viên",
+            "password": "mật khẩu",
+            "changePassword": "thay đổi mật khẩu",
+            "confirmPassword": "xác nhận mật khẩu",
+            "newPassword": "mật khẩu mới",
+            "isDriver": "tài xế",
+            "email": "email",
+            "fullName": "họ và tên",
+            "firstName": "tên",
+            "lastName": "họ",
+            "phoneNumber": "số điện thoại",
+            "birthday": "ngày sinh",
+            "gender": "giới tính",
+            "male": "nam",
+            "female": "nữ",
+            "secret": "bí mật"
+        }
+    },
+    "gpsRoute": {
+        "label": {
+            "title": "quản lý lộ trình",
+            "listRoute": "danh sách lộ trình",
+            "transportOrder_info": "thông tin đơn hàng",
+            "vehicle_info": "thông tin phương tiện",
+            "driver_info": "thông tin lái xe",
+            "tracking": "theo dõi"
+        },
+        "field": {
+            "vehicle": "phương tiện",
+            "transportOrder": "đơn hàng",
+            "driver": "lái xe",
+            "complete": "hoàn thành",
+            "start": "bắt đầu"
+        }
+    },
+    "transportOrder": {
+        "label": {
+            "title": "quản lý đơn hàng",
+            "listTransport": "danh sách đơn hàng",
+            "listProduct": "danh sách sản phẩm",
+            "change_status_success": "thay đổi trạng thái thành công",
+            "confirm_change_status": "bạn có chắc chắn thay đổi trạng thái đơn hàng vận chuyển không?",
+            "create_invoice_success": "tạo hóa đơn thành công",
+            "confirm_create_invoice": "bạn có chắc chắn tạo hóa đơn không?",
+            "createInvoice": "tạo hóa đơn"
+        },
+        "field": {
+            "title": "tiêu đề",
+            "expectedDepartAt": "thời gian dự kiến khởi hành",
+            "expectedArrivalAt": "thời gian dự kiến đến",
+            "departAt": "thời gian khởi hành",
+            "arrivalAt": "thời gian đến",
+            "project": "dự án",
+            "client": "khách hàng",
+            "addInfoClient": "thêm thông tin khách hàng",
+            "clientName": "tên khách hàng",
+            "clientPhoneNumber": "số điện thoại khách hàng",
+            "clientDescription": "mô tả khách hàng",
+            "comment": "bình luận",
+            "price": "giá",
+            "amount": "số lượng",
+            "status": "trạng thái",
+            "invoice": "hóa đơn"
+        }
+    },
+    "vehicle": {
+        "label": {
+            "title": "phương tiện",
+            "listVehicle": "danh sách phương tiện",
+            "addVehicle": "thêm phương tiện",
+            "bicycle": "xe đạp",
+            "electric_bicycle": "xe đạp điện",
+            "motorcycle": "xe mô tô",
+            "electric_motorcycle": "xe mô tô điện",
+            "car": "xe ô tô",
+            "electric_car": "xe ô tô điện",
+            "truck": "xe tải",
+            "other": "khác"
+        },
+        "field": {
+            "type": "loại"
+        }
+    },
+    "project": {
+        "label": {
+            "title": "quản lý dự án",
+            "listProject": "danh sách dự án",
+            "listProjectType": "danh sách loại dự án",
+            "listEquipment": "danh sách thiết bị"
+        },
+        "field": {
+            "startDate": "ngày bắt đầu",
+            "endDate": "ngày kết thúc",
+            "days": "số ngày",
+            "amount": "amount",
+            "type": "loại dự án",
+            "client": "khách hàng",
+            "equipment": "thiết bị"
+        }
+    },
+    "product": {
+        "label": {
+            "title": "quản lý sản phẩm",
+            "listProduct": "danh sách sản phẩm",
+            "listProductType": "danh sách loại sản phẩm",
+            "listEquipment": "danh sách thiết bị"
+        },
+        "field": {
+            "price": "giá",
+            "unit": "đơn vị",
+            "type": "loại sản phẩm",
+            "amount": "số lượng",
+            "client": "khách hàng"
+        }
+    },
+    "equipment": {
+        "label": {
+            "title": "quản lý thiết bị",
+            "listEquipment": "danh sách thiết bị",
+            "listEquipmentType": "danh sách loại thiết bị"
+        },
+        "field": {
+            "serialNumber": "số seri",
+            "mark": "mark",
+            "model": "mẫu",
+            "version": "phiên bản",
+            "purchaseDate": "ngày mua",
+            "transferDate": "ngày chuyển giao",
+            "lossDate": "ngày mất",
+            "maintenanceDate": "ngày bảo trì",
+            "type": "loại thiết bị"
+        }
+    },
+    "invoice": {
+        "label": {
+            "title": "quản lý hóa đơn",
+            "listInvoice": "danh sách hóa đơn",
+            "listProduct": "list product",
+            "change_status_success": "thay đổi trạng thái thành công",
+            "confirm_change_status": "bạn có chắc chắn thay đổi trạng thái hóa đơn không?",
+            "export_pdf_success": "xuất pdf thành công",
+            "confirm_export_pdf": "bạn có chắc chắn xuất pdf không?"
+        },
+        "field": {
+            "title": "tiêu đề",
+            "note": "ghi chú",
+            "exportDate": "ngày xuất",
+            "expiryDate": "ngày hết hạn",
+            "addInfoClient": "thêm thông tin khách hàng",
+            "clientName": "tên khách hàng",
+            "clientPhoneNumber": "số điện thoại khách hàng",
+            "clientDescription": "mô tả khách hàng",
+            "comment": "bình luận",
+            "price": "giá",
+            "amount": "số lượng",
+            "status": "trạng thái",
+            "project": "dự án",
+            "client": "khách hàng",
+            "pdf": "pdf",
+            "transportOrder": "đơn hàng",
+            "product": "sản phẩm",
+            "status_draft": "nháp",
+            "status_accepted": "chấp nhận"
+        }
+    },
+    "home": {
+        "label": {
+            "revenue_statistics": "thống kê doanh thu",
+            "revenue": "doanh thu"
+        }
+    }
+}
